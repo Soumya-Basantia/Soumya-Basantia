@@ -35,31 +35,31 @@
 
 <!-- HERO SECTION: 2-Column Bento Layout (About / Terminal) -->
 <table>
-  <tr>
-    <td width="52%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### ⚡ About Me
 
 > *“Building intelligent systems, exploring new technologies and turning ideas into real-world solutions.”*
 
-- 🔭 **Focus:** AI/ML, Computer Vision & Scalable Full-Stack Engineering
-- 💡 **Philosophy:** *“Same Human. Different Possibilities.”*
-- 🚀 **Mission:** Creating systems with real-world impact
-- 🌱 **Exploring:** Large Vision Models & Autonomous AI
+* 🔭 **Focus:** AI/ML, Computer Vision &amp; Scalable Full-Stack Engineering
+* 💡 **Philosophy:** *“Same Human. Different Possibilities.”*
+* 🚀 **Mission:** Creating systems with real-world impact
+* 🌱 **Exploring:** Large Vision Models &amp; Autonomous AI
 
 <br/>
 
-<div align="left">
+<p align="left">
   <a href="mailto:soumya.basantia@example.com">
     <img src="https://img.shields.io/badge/Let's_Connect_%E2%86%92-00F5FF?style=for-the-badge&logoColor=040711&labelColor=00F5FF&color=040711" alt="Let's Connect" />
   </a>
   <a href="https://github.com/Soumya-Basantia?tab=repositories">
     <img src="https://img.shields.io/badge/%3C%2F%3E_View_My_Work-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View Work" />
   </a>
-</div>
+</p>
 
-    </td>
-    <td width="48%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### 💻 `soumya@developer:~$ whoami`
 
@@ -82,8 +82,8 @@
 > 🌌 *“A better tomorrow is a commit away.”*  
 > **EXPLORE > BUILD > GROW**
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
@@ -115,22 +115,22 @@
 
 <!-- BENTO SECTION: Currently Working On & Latest Projects -->
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### 🎯 `/ currently-working-on 03`
 
-- 🔵 **Next-gen web apps & AI-powered interfaces**  
+* 🔵 **Next-gen web apps &amp; AI-powered interfaces**  
   *Designing hyper-fast, clean full-stack platforms.*
-- 🟡 **Computer Vision & intelligent systems**  
+* 🟡 **Computer Vision &amp; intelligent systems**  
   *Real-time object detection, tracking, and gesture recognition.*
-- 🟣 **Open-source projects & research**  
+* 🟣 **Open-source projects &amp; research**  
   *Publishing accessible code and contributing to community tooling.*
-- 🟢 **Learning, building, and exploring new ideas**  
+* 🟢 **Learning, building, and exploring new ideas**  
   *Iterating rapidly from prototype to production.*
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### 🚀 `/ latest-projects 04`
 
@@ -141,16 +141,16 @@
 | **🛡️ Guardian Link** | Web / Safety | Women safety emergency network app |
 | **👥 SkillBridge** | DBMS / Java | Student skill marketplace (DBMS + Swing) |
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
 
 <!-- BENTO SECTION: Future Goals & Achievements -->
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### 🎯 `/ future-goals 06`
 
@@ -159,19 +159,19 @@
 - [ ] Build a product that creates real-world value
 - [ ] Keep learning, keep building, keep evolving
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### 🏆 `/ achievements 07`
 
-- 🎓 **Academic Excellence:** `CGPA: 9.01`
-- 🌐 **Open Source:** Active GitHub Contributions
-- 🥇 **Hackathons & Competitions:** Technical Innovation Sprints
-- 📦 **Projects:** `12+` Production & Prototype Repositories
-- 🎯 **Continuous Learning:** Daily Code & Machine Learning Research
+* 🎓 **Academic Excellence:** `CGPA: 9.01`
+* 🌐 **Open Source:** Active GitHub Contributions
+* 🥇 **Hackathons &amp; Competitions:** Technical Innovation Sprints
+* 📦 **Projects:** `12+` Production &amp; Prototype Repositories
+* 🎯 **Continuous Learning:** Daily Code &amp; Machine Learning Research
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
