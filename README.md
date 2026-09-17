@@ -92,19 +92,33 @@
 
 <div align="center">
 
-#### ⚡ Languages
+#### ⚡ Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,js,ts,go,php" alt="Programming Languages" />
 </p>
 
-#### 🚀 Frameworks & Libraries
+#### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,nextjs,tailwind,mongodb,docker" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,vue,tailwind" alt="Frontend Development" />
 </p>
 
-#### 🔧 Tools & Platforms
+#### ⚙️ Backend & DevOps / BaaS
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,firebase,docker" alt="Backend & DevOps" />
+</p>
+
+#### 🧠 AI, Machine Learning & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,numpy,anaconda" alt="AI/ML Frameworks" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
 </p>
 
 </div>
