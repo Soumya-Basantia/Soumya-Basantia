@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- Top Cyber Wave Animated Banner -->
+<!-- Top Cyber Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=SOUMYA%20BASANTIA&fontSize=48&fontColor=00f5ff&animation=twinkling&fontAlignY=36" width="100%" alt="Soumya Basantia" />
 
-<!-- Animated Dynamic Typing Subtitle -->
+<!-- Dynamic Typing Subtitle -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=AI%2FML+Enthusiast+%7C+Software+Engineer+%7C+Researcher;Building+intelligent+systems+%26+real-world+solutions;%E2%80%9CSame+Human.+Different+Possibilities.%E2%80%9D;A+better+tomorrow+is+a+commit+away." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Quick Social & Action Dock -->
+<!-- Quick Social Links -->
 <p align="center">
   <a href="https://linkedin.com/in/Soumya-Basantia" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -33,13 +33,12 @@
 
 ---
 
-<!-- HERO SECTION: 3-Column Bento Layout (About / Animated Portrait / Animated Terminal) -->
+<!-- HERO SECTION: 2-Column Bento Layout (About / Terminal) -->
 <table>
   <tr>
-    <!-- Left: Bio & Actions -->
-    <td width="33%" valign="top">
+    <td width="52%" valign="top">
 
-### ⚡ `whoami`
+### ⚡ About Me
 
 > *“Building intelligent systems, exploring new technologies and turning ideas into real-world solutions.”*
 
@@ -60,20 +59,25 @@
 </div>
 
     </td>
+    <td width="48%" valign="top">
 
-    <!-- Center: Animated Matrix Avatar -->
-    <td width="33%" valign="top" align="center">
+### 💻 `soumya@developer:~$ whoami`
 
-<img src="https://raw.githubusercontent.com/Soumya-Basantia/Soumya-Basantia/main/assets/cyber-portrait.svg" width="100%" alt="Cyber Portrait" />
-
-    </td>
-
-    <!-- Right: Animated Terminal Window -->
-    <td width="34%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/Soumya-Basantia/Soumya-Basantia/main/assets/terminal-whoami.svg" width="100%" alt="Interactive Terminal" />
-
-<br/>
+```json
+{
+  "name": "Soumya Basantia",
+  "role": "AI/ML Engineering Student",
+  "focus": [
+    "AI", 
+    "Computer Vision", 
+    "Full Stack", 
+    "Research"
+  ],
+  "current_status": "Building...",
+  "goal": "Create real-world impact",
+  "fun_fact": "Ideas > Overthinking"
+}
+```
 
 > 🌌 *“A better tomorrow is a commit away.”*  
 > **EXPLORE > BUILD > GROW**
@@ -155,12 +159,6 @@
 - [ ] Build a product that creates real-world value
 - [ ] Keep learning, keep building, keep evolving
 
-<br/>
-
-<div align="right">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&weight=700&size=30&duration=4000&pause=1000&color=00F5FF&width=240&lines=Build+The+Future" alt="Build The Future" />
-</div>
-
     </td>
     <td width="50%" valign="top">
 
@@ -178,42 +176,25 @@
 
 ---
 
-### 📊 `/ github-stats 05`
-
 <div align="center">
 
-<a href="https://github.com/Soumya-Basantia">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Soumya-Basantia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=040711&title_color=00F5FF&icon_color=00FF88&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya-Basantia&layout=compact&theme=tokyonight&hide_border=true&bg_color=040711&title_color=00F5FF&text_color=c9d1d9" alt="Top Languages" />
-</a>
+```
+> CODE
+> LEARN
+> BUILD
+> IMPACT
+> REPEAT
+```
 
-<br/><br/>
-
-<a href="https://github.com/Soumya-Basantia">
-  <img src="https://streak-stats.demolab.com?user=Soumya-Basantia&theme=tokyonight&hide_border=true&background=040711&stroke=00F5FF&ring=00F5FF&fire=00FF88&currStreakNum=00F5FF" alt="GitHub Streak" />
-</a>
-
-</div>
-
----
-
-### 🎧 Chasing Better — Soumya's Playlist
-
-<!-- Animated Audio Visualizer SVG -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Soumya-Basantia/Soumya-Basantia/main/assets/audio-visualizer.svg" width="100%" alt="Audio Visualizer" />
-</div>
-
----
-
-<!-- Animated Pixel-Art Sci-Fi Mountain Skyline Footer SVG -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Soumya-Basantia/Soumya-Basantia/main/assets/pixel-skyline.svg" width="100%" alt="Pixel Skyline Footer" />
-</div>
+**“Building a better tomorrow, one commit at a time.”**
 
 <br/>
 
-<div align="center">
+> `>` *Thanks for visiting! Let's build something amazing together.* █
+
+<br/>
+
 <!-- Bottom Cyber Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=100&section=footer" width="100%" alt="Footer Wave" />
+
 </div>
